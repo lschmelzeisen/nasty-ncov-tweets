@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-04-09-LATEST-coronavirus",
+  "request": {
+    "type": "Search",
+    "query": "coronavirus",
+    "since": "2020-04-09",
+    "until": "2020-04-10",
+    "filter": "LATEST",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-09T08:35:36.599957"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "en-2020-04-11-TOP-ncov",
+  "request": {
+    "type": "Search",
+    "query": "ncov",
+    "since": "2020-04-11",
+    "until": "2020-04-12",
+    "filter": "TOP",
+    "lang": "en",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-05T11:46:01.195974"
+}

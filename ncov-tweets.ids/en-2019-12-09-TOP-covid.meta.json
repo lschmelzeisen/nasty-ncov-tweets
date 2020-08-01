@@ -1,0 +1,14 @@
+{
+  "id": "en-2019-12-09-TOP-covid",
+  "request": {
+    "type": "Search",
+    "query": "covid",
+    "since": "2019-12-09",
+    "until": "2019-12-10",
+    "filter": "TOP",
+    "lang": "en",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-07T16:42:20.245710"
+}

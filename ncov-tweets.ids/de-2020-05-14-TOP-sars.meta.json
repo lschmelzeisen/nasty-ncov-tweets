@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-05-14-TOP-sars",
+  "request": {
+    "type": "Search",
+    "query": "sars",
+    "since": "2020-05-14",
+    "until": "2020-05-15",
+    "filter": "TOP",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-04T12:27:07.208515"
+}

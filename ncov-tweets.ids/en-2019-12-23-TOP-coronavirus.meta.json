@@ -1,0 +1,14 @@
+{
+  "id": "en-2019-12-23-TOP-coronavirus",
+  "request": {
+    "type": "Search",
+    "query": "coronavirus",
+    "since": "2019-12-23",
+    "until": "2019-12-24",
+    "filter": "TOP",
+    "lang": "en",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-07T16:57:08.260746"
+}

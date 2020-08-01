@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-04-09-TOP-corona",
+  "request": {
+    "type": "Search",
+    "query": "corona",
+    "since": "2020-04-09",
+    "until": "2020-04-10",
+    "filter": "TOP",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-05T13:27:07.448804"
+}

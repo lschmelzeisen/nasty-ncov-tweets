@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-03-21-TOP-coronavirus",
+  "request": {
+    "type": "Search",
+    "query": "coronavirus",
+    "since": "2020-03-21",
+    "until": "2020-03-22",
+    "filter": "TOP",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-06T12:34:25.792832"
+}

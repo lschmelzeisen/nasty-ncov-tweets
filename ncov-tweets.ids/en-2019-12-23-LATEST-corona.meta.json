@@ -1,0 +1,14 @@
+{
+  "id": "en-2019-12-23-LATEST-corona",
+  "request": {
+    "type": "Search",
+    "query": "corona",
+    "since": "2019-12-23",
+    "until": "2019-12-24",
+    "filter": "LATEST",
+    "lang": "en",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-07T16:33:02.781536"
+}

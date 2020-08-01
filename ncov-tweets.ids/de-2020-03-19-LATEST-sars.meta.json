@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-03-19-LATEST-sars",
+  "request": {
+    "type": "Search",
+    "query": "sars",
+    "since": "2020-03-19",
+    "until": "2020-03-20",
+    "filter": "LATEST",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-06T20:51:50.055130"
+}

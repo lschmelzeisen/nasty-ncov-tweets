@@ -1,0 +1,14 @@
+{
+  "id": "de-2019-12-07-LATEST-ncov",
+  "request": {
+    "type": "Search",
+    "query": "ncov",
+    "since": "2019-12-07",
+    "until": "2019-12-08",
+    "filter": "LATEST",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-08T17:39:31.485230"
+}

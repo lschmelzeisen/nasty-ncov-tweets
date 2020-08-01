@@ -1,0 +1,14 @@
+{
+  "id": "de-2020-03-29-LATEST-covid",
+  "request": {
+    "type": "Search",
+    "query": "covid",
+    "since": "2020-03-29",
+    "until": "2020-03-30",
+    "filter": "LATEST",
+    "lang": "de",
+    "max_tweets": null,
+    "batch_size": 100
+  },
+  "completed_at": "2020-06-06T12:11:51.691628"
+}
