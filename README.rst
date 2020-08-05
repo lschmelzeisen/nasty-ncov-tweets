@@ -30,7 +30,7 @@ Tweet hydration using NASTY
    <https://developer.twitter.com/en/docs/basics/getting-started>`_).
 
 2. Download the `configuration file
-   <https://raw.githubusercontent.com/lschmelzeisen/nasty/master/config.example.sh>`_,
+   <https://github.com/lschmelzeisen/nasty/blob/f4a8c3122c84b4a16eaf05d566001fd5b3c1871f/config.example.sh>`_,
    enter you API keys, and `source <https://ss64.com/bash/source.html>`_ it into you
    environment.
 
