@@ -26,19 +26,18 @@ here.
 Tweet hydration using NASTY
 ========================================================================================
 
-1. Obtain API keys from Twitter (see `Twitter Developers: Getting Started
-   <https://developer.twitter.com/en/docs/basics/getting-started>`_).
 
-2. Download the `configuration file
-   <https://raw.githubusercontent.com/lschmelzeisen/nasty/master/config.example.sh>`_,
-   enter you API keys, and `source <https://ss64.com/bash/source.html>`_ it into you
-   environment.
-
-3. Install NASTY via `pip <https://en.wikipedia.org/wiki/Pip_(package_manager)>`_::
+1. Install NASTY (for more details, see its `installation instructions <https://github.com/lschmelzeisen/nasty#installation>`_)::
 
     pip install nasty
+    mkdir -p .config
+    curl -o .config/nasty.toml https://raw.githubusercontent.com/lschmelzeisen/nasty/master/config-example.nasty.toml
 
-4. Hydrate Tweets to folder ``ncov-tweets/``::
+2. Obtain API keys from Twitter (see `Twitter Developers: Getting Started
+   <https://developer.twitter.com/en/docs/basics/getting-started>`_) and enter them
+   into the ``[twitter_api]`` section of the ``.config/nasty.toml`` config file.
+
+3. Hydrate Tweets to folder ``ncov-tweets/``::
 
     nasty unidify --in-dir ncov-tweets.ids/ --out-dir ncov-tweets/
 
